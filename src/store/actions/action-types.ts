@@ -1,0 +1,2 @@
+export const HANDLE_SIGNATURE = 'HANDLE_SIGNATURE'
+export const HANDLE_MODAL = 'HANDLE_MODAL'
